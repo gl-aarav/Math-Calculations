@@ -3,7 +3,7 @@ public class TestCalculation {
 
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
-
+ .32
     MyCalculation calculate = new MyCalculation();
     int Operation;
     double one=0, two=0;
